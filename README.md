@@ -3,6 +3,8 @@
 # Todo List App in Vue.js with LocalStorage
 
 ![Todo List App Screenshot](todo-list-app-screenshot.png)
+![Screenshot (5)](https://github.com/pranaynallanagula/ToDo-App-VueJs/assets/89977392/4fd879a9-0327-4ab6-86d0-d18a00e2ac67)
+
 
 ## Overview
 
